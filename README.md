@@ -1,4 +1,4 @@
-# 🧠 Dream Visualizer - AI-Powered EEG Dream Generation
+AI Powered Dream Visualizer Using EEG Signal
 
 An innovative AI-powered system that visualizes dreams based on EEG brainwave signals using machine learning and image generation APIs.
 
