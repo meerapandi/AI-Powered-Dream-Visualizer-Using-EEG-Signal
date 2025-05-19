@@ -6,7 +6,7 @@ An innovative AI-powered system that visualizes dreams based on EEG brainwave si
 
 This project predicts and visualizes dreams using EEG signal data. It uses the mean values of five EEG brainwaves (Alpha, Beta, Gamma, Delta, Theta) to classify the type of dream a user might be experiencing. Then, it generates a visual representation of that dream using the DeepAI image generation API.
 
-## 📺 Demo
+## 📺 click the img to watch Demo
 
 [![Watch the video](https://img.youtube.com/vi/ZvQsrTi5ijg/hqdefault.jpg)
 
